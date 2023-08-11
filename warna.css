@@ -1,0 +1,77 @@
+.nama{
+    color: aquamarine;
+}
+.asal_sekolah{
+    color:bisque;
+}
+.anime{
+    color:darkgoldenrod;
+}
+.hobi{
+    text-decoration-color: blueviolet;
+}
+.umur{
+    color: darkgrey;
+}
+.game{
+    color: chocolate;
+}
+.kotak{
+    padding: 100px;
+    width: 300px;
+    color: black;
+    background: greenyellow;
+    margin: 10px;
+    height: 300px;
+    z-index: 2;
+ 
+}
+.kotak2{
+    padding: 100px;
+    width: 300px;
+    color: white;
+    background: blue;
+    margin: 10px;
+    height: 300px;
+    z-index: 2;
+
+}
+.kotak3{
+    padding: 100px;
+    width: 450px;
+    color: black;
+    background: khaki;
+    margin: 10px;
+    height: 450px;
+    z-index: 0;
+   
+}
+.kotak4{
+    padding: 100px;
+    width: 50px;
+    color: black;
+    background: ivory;
+    margin: 10px;
+    height: 50px;
+    z-index: 3;
+  
+}
+.kotak5{
+    padding: 100px;
+    width: 50px;
+    color: black;
+    background: violet;
+    margin: 10px;
+    height: 50px;
+    z-index: 1;
+   
+}
+.kotak6{
+    padding: 100px;
+    width: 50px;
+    color: black;
+    background: lightblue;
+    margin: 10px;
+    height: 50px;
+    z-index: 2;
+}
